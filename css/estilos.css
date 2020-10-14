@@ -1,7 +1,16 @@
-#cabecera{
+#contenedor{
     width: 80%;
     text-align: center;
     color: blue;
     margin: 0 auto;
     background-color: rgb(105, 247, 247);
+}
+
+#cabecera{
+    width: 60%;
+    margin: 0 auto;
+    background-color: blueviolet;
+    text-align: center;
+    color: #ffffff;
+    font-size: 100px;
 }
