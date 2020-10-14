@@ -1,4 +1,4 @@
-#cabecera{
+#contenedor{
     width: 80%;
     text-align: center;
     color: blue;
@@ -6,7 +6,11 @@
     background-color: rgb(105, 247, 247);
 }
 
-p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:rebeccapurple;
+#cabecera{
+    width: 60%;
+    margin: 0 auto;
+    background-color: blueviolet;
+    text-align: center;
+    color: #ffffff;
+    font-size: 100px;
 }
