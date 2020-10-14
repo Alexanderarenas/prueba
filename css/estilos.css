@@ -1,4 +1,7 @@
-body{
+#cabecera{
+    width: 80%;
     text-align: center;
     color: blue;
+    margin: 0 auto;
+    background-color: rgb(105, 247, 247);
 }
