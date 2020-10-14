@@ -5,3 +5,8 @@
     margin: 0 auto;
     background-color: rgb(105, 247, 247);
 }
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rebeccapurple;
+}
