@@ -14,3 +14,9 @@
     color: #ffffff;
     font-size: 100px;
 }
+
+footer{
+    background-color: rgb(70, 113, 155);
+    color: white;
+    text-align: center;
+}
